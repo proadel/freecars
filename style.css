@@ -20,12 +20,12 @@ a {
     text-decoration: none;
 }
 .logo{
-    font-size: 30px;
+    font-size: 50px;
     text-decoration: none;
     padding: 10px;
 }
 ul{
-    font-size: 14px;
+    font-size: 20px;
     list-style: none;
     display: flex;
     justify-content: space-between;
@@ -45,8 +45,8 @@ ul{
     gap: 10px;
 }
 img{
-    width:80px;
-    height: 80px;
+    width: 20%;
+    height: 20%;
     border-radius: 50% 20%;
     #border: 3px solid green;
 }
