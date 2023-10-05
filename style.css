@@ -8,8 +8,8 @@ body{
     
 }
 .container{
-    height: 100vh;
-    width: auto;
+    height: 50vh;
+    width: 100%;
 }
 header{
     display: flex;
